@@ -1,5 +1,5 @@
 ###########################################################
-#  CSE 231 Project 9
+#  CSE 231 Project9
 #  Take the Prices and Securities text file
 #  Open the data files
 #  Read the securities file
