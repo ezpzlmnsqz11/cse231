@@ -1,5 +1,5 @@
 ###########################################################
-#  CSE 231 Project 1 by Ozan Uyulur
+#  CSE 231 Project 1 
 #
 #  Algorithm
 #  User inputs floating point value
