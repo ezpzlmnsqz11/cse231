@@ -1,5 +1,5 @@
 ###########################################################
-#  CSE 231 Project 3 by Ozan Uyulur
+#  CSE 231 Project 3
 #  Display Project Banner
 #  Prompt for a Triangle
 #  Detect to see if character is valid
