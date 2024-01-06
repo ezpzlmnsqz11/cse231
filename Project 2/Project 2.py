@@ -1,5 +1,5 @@
 ###########################################################
-#  CSE 231 Project 2 by Ozan Uyulur
+#  CSE 231 Project 2
 #  Display welcome messages for car rental service
 #  Prompt for a capital character
 #  Detect to see if character is valid
