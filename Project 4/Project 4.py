@@ -1,5 +1,5 @@
 ###########################################################
-#  CSE 231 Project 4 by Ozan Uyulur
+#  CSE 231 Project 4 
 #  Display Options
 #  Prompt for a selection (F,E,P,S,M,X)
 #  Detect to see if character is valid
